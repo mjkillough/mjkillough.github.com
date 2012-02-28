@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mjkillough.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://zvxrl.co.uk
+title: zvxrl
+subtitle: Homepage of Michael Killough
+author: Michael Killough
 simple_search: http://google.com/search
-description:
+description: Homepage of Michael Killough
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -67,7 +67,8 @@ github_skip_forks: true
 twitter_user:
 twitter_tweet_count: 4
 twitter_show_replies: false
-twitter_follow_button: true
+twitter_follow_button: true:w
+
 twitter_show_follower_count: false
 twitter_tweet_button: true
 

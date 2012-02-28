@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Hello, World."
+date: 2012-02-28 22:55
+comments: true
+categories: 
+---
+
+A test post to test out Octopress/Jeykll.
+
+No doubt I will forget to clear this up and it'll remain here forevermore.
