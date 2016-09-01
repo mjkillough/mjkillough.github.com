@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/mjkillough
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zvxrl.co.uk
+  * I am mjkillough (https://keybase.io/mjkillough) on keybase.
+  * I have a public key with fingerprint EA5A FFE3 8356 F421 2957  17CB B744 6942 DD83 C26F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012c0e53c5a6d4db73f8a619017229916d728d5322b98fceaf27a9e6a6a2c7ad610a",
+            "fingerprint": "ea5affe38356f421295717cbb7446942dd83c26f",
+            "host": "keybase.io",
+            "key_id": "b7446942dd83c26f",
+            "kid": "01012c0e53c5a6d4db73f8a619017229916d728d5322b98fceaf27a9e6a6a2c7ad610a",
+            "uid": "2f29306cedb0bd7d3ef2be27c30ec919",
+            "username": "mjkillough"
+        },
+        "service": {
+            "hostname": "zvxrl.co.uk",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472760002,
+    "expire_in": 157680000,
+    "prev": "3ca2a81a6d1ec69c5c2bce0f6232dcd295a68d3f8dc316d75b35440999e168d3",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFFEY3rW8ZAiRXSWFJojIbZk5c1/ooYt5iVJJsJtuZ845o+OuM9vsJa3s
+JYMsiewiBBWYiBKRFeYagUJZWokUGD2Ugr2UBV2oLDCxM2JvPfZ0OP//fd/5/u/8
+Z9PmuVLc8a3G5tHjDyz3swnNVTp48tERRrNwLeM7wgTI7EGCmIQj/oCBGR/DciwH
+EEtEHolQwgLWZF5XoMSpLCcDoKqchGWgYJEHQFMVHRGoAxmqRIISBEiGWOJYyHgY
+3TAriB2yDTNCZQkUoa4TXuFFSRcAB1RR5mSkabIgSKoAMFZ4BCSdEiutsMOg5jQY
+Jl7DojV68c/a+wf+P/uOzsoBHag8KyGCNVbDMuaJDjQCZMSzBKmc6gDDxDZhNaHo
+6qqAEQxa0YpKps7D0HrMQMSJ1pllDnM4VmMHvcjyRgOUHLKtiIWsIG1URiKhsM8h
+RmpDDvIQ0fxzGn7NMDENkjJixA4blsn4OIpEEcMR5QQZyBLLssDDkJqQYRO/4SBE
+WVJolXXeITEqySMIoLKHo8lwBEkqEhHQEGF1CfAAI0y/A0oKpolhxDtJiRovCgKr
+qirhnAbjjHXQtBifQH3CCqoZNipMGInahKlLbXCvmu9yp7iSEhOcFXOlLlj0d+/y
+OpJnaksaTng6+7ZMpN/n8ptxX/WPYUM840vObX46mb2yakbZ1l4/viL3wK+JHUX9
+JUxn2fehvg3lO7X09KluYemt6anu0by9XfmBO/bYtVDGMTe5VNPy4cn4z6r9WYkr
+ckcGvlyc7Fm4Ma+xY3Dp0fPeUx+nf4y/ye2E2tfJ5T0FG5aMpHR8mUredXRt67dJ
+7n3a1/0X1zx///be3n3nVue8y6kZLi/s3+yJP463X9l+qbnYc3t+76BZkHUjTna/
+zIw39SclXBi43lcQ3+TtPlxevK7ezM5b3/25IelVUVfL65GM367LbV2x0mVZ+UMP
+HzTd3NMYLcOLUeanqwVjp9tae+8Wvsj8Aw==
+=A4HC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mjkillough
+
+==================================================================
